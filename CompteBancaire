@@ -2,7 +2,7 @@
 Object subclass: #CompteBancaire
 	instanceVariableNames: 'titulaire solde contientDesTransactions numeroDeCompte'
 	classVariableNames: ''
-	package: 'projet_application_gestion'!
+	package: 'projet_application_gestion'! 
 
 !CompteBancaire methodsFor: 'as yet unclassified' stamp: 'SaintHeraud 11/12/2023 21:33'!
 historiqueTransaction
